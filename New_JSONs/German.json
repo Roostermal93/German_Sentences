@@ -1,0 +1,241 @@
+{
+    "count": 39,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "12878dc4-5cb8-47c8-8daf-85418bd332f1",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "17d92694-3c47-42f9-abe5-05b5d88731d3",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "1b363444-4839-4937-b8db-609bfeef433e",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "1cec1fe1-b177-4ca4-a94c-0b561e1b9202",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "2294ccc4-4e4d-4a0f-8d5d-877cad7767e7",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "24761040-0b61-449a-82c0-8ff4c5fb177c",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "28db9e99-fd62-4a44-8876-31cc3b693115",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "33710a3a-7b27-4330-b6e7-4958f5b60db0",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "34fefcfd-3303-4295-a4fe-ffb8d3598d85",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "412293ab-3604-4abf-905b-347bdde40ddc",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "463f99be-4590-4b37-ab58-456922a84e9d",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "49bd13a5-011d-4b8c-a8ea-bf65d68a977a",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "4a0e07ea-1da2-4c81-992d-edb4fc70cc5f",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "4d82e3f0-e9fd-4866-bcd9-4d1b46f0d330",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "4e513c54-1b7b-44b8-b5f9-c84baea7e8ae",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "78529db1-62bd-4bd2-bfa5-d8f68ada0f7d",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "7994210a-ac4d-436c-adf3-c7cb1d3df4b8",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "7f7e8cda-77a6-49b0-842c-b501f4c35993",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "7fd1a92d-1652-4d9f-9334-464e10cb3c7d",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "7fdfc487-9f60-4fe7-aa1c-aed8fe2ddbbf",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "81e78163-6481-4c81-87a2-05ee6d4c13b9",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "8448e25f-ee62-4507-b869-1c7d30d7bf51",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "a13d16da-1dee-43cd-9a70-6815f4844f3e",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "afb75785-5700-486f-8ae9-b3c640b05b51",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "b04c8432-a3bd-4ea6-a93a-f28dda79984f",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "b19222d8-25ce-4a76-ac9b-223eb078d4d7",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "c0becb5b-c8f7-4b79-acaf-63a2bfef46d7",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "c36b5fd8-92cf-4f41-9d7f-fcb76cc3d244",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "c497a3f0-6fcb-495e-a5fd-a418d38bebe9",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "c4d50fb1-36a4-434c-9ebb-9053cac4e9c6",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "c5f8a7e7-41e1-4a57-aba5-a245978357af",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "cd41d917-ff35-48a4-b4ca-fc29a377f65d",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "cd8212ff-ceb9-47ef-839c-75d91f35fad5",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "d910a342-53bd-4d83-96d7-6d83e6633f6a",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "e2787388-fb07-4fc3-a2ad-f3e8025ce87c",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "ef524f19-4a70-409d-a49a-6e17eb5e0135",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "fc48ecf4-071c-4920-b882-6cb8449b6c88",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "fcc1e4d4-c86d-45f7-8c27-8355652da221",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "ff27e9d4-6535-410b-ab80-b5ca4c0ceb67",
+            "collectionId": "German",
+            "type": "Sentences",
+            "status": "private"
+        }
+    ]
+}
